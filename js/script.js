@@ -1,3 +1,7 @@
+setTimeout(function() {
+	location.href = 'rocket.html';
+}, 2000);
+
 // This is invisible comment
 var doCoolStuff = function() {
 
